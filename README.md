@@ -1,12 +1,6 @@
 # atm-machine-simulation
 Simple ATM machine simulator using Python and OOP
-# ---------------------------------------------
-# Project Title: ATM Machine Simulation System
-# Author: Sania Irshad
-# Roll No: BSM-23-19
-# GitHub: https://github.com/Sania1125
-# Description: A basic ATM simulation using OOP in Python.
-# ---------------------------------------------
+
 
 class ATM:
     def __init__(self, user_name, pin, balance):
